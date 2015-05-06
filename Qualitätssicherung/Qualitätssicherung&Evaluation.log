@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.28)  3 MAY 2015 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.28)  6 MAY 2015 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -913,24 +913,43 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 ]
+Kapitel 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 87.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 98.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 98.
 
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by more several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface .
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 89.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 102.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 102.
 
 Package hyperxmp Warning: Qualitätssicherung&Evaluation.tex did not specify an
 y metadata to
@@ -939,32 +958,34 @@ y metadata to
 (hyperxmp)                provide metadata values to hyperxmp.
 
 Package atenddvi Info: Last page = 3.
-[3]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 98.
+[3
+
+]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 102.
  (./Qualitätssicherung&Evaluation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `Qualitätssicherung&Evaluation.out' has not 
 changed.
-(rerunfilecheck)             Checksum: B7D08DE992BA1F97D0843BDAA0AEB993;114.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
+(rerunfilecheck)             Checksum: 14681C550AFC4F951013C19ADC7A4AFA;207.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 13674 strings out of 494336
- 207891 string characters out of 6163214
- 377290 words of memory out of 5000000
- 16630 multiletter control sequences out of 15000+600000
- 33627 words of font info for 77 fonts, out of 8000000 for 9000
+ 13681 strings out of 494336
+ 208000 string characters out of 6163214
+ 378292 words of memory out of 5000000
+ 16634 multiletter control sequences out of 15000+600000
+ 36520 words of font info for 79 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 63i,7n,50p,460b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,7n,50p,457b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
 nts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmssbo10
 .pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Qualitätssicherung&Evaluation.pdf (3 pages, 77497 bytes).
+Output written on Qualitätssicherung&Evaluation.pdf (3 pages, 78088 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 16917 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 17437 words of extra memory for PDF output out of 20736 (max. 10000000)
 
