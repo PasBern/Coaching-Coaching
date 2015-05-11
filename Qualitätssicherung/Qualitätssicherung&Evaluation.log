@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.28)  9 MAY 2015 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.28)  11 MAY 2015 13:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,15 +988,52 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 117.
  [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 127.
+ [6]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 133.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 133.
+ [7]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 134.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 134.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 134.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 134.
+ [8]
+Kapitel 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 136.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 136.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 147.
+(/usr/share/texmf-dist/tex/latex/marvosym/umvs.fd)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 161.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 161.
 
 
 Package hyperxmp Warning: Qualitätssicherung&Evaluation.tex did not specify an
@@ -1005,34 +1042,38 @@ y metadata to
 (hyperxmp)                hyperxmp documentation for instructions on how to
 (hyperxmp)                provide metadata values to hyperxmp.
 
-Package atenddvi Info: Last page = 6.
-[6]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 131.
+Package atenddvi Info: Last page = 9.
+[9
+
+]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 161.
  (./Qualitätssicherung&Evaluation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `Qualitätssicherung&Evaluation.out' has not 
 changed.
-(rerunfilecheck)             Checksum: E5310D7904FAB9BF35E970442917BBAB;310.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+(rerunfilecheck)             Checksum: 755F6072858738002D0D8D44FF1B7C76;365.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 13893 strings out of 494336
- 210377 string characters out of 6163214
- 382292 words of memory out of 5000000
- 16690 multiletter control sequences out of 15000+600000
- 60463 words of font info for 205 fonts, out of 8000000 for 9000
+ 14001 strings out of 494336
+ 211896 string characters out of 6163214
+ 382288 words of memory out of 5000000
+ 16732 multiletter control sequences out of 15000+600000
+ 71863 words of font info for 240 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 63i,7n,50p,1357b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
-ts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmssbo10
-.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texm
-f-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/u
-rw/palatino/uplri8a.pfb>
-Output written on Qualitätssicherung&Evaluation.pdf (6 pages, 104197 bytes).
+ 63i,7n,50p,1358b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
+nts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmss9.pf
+b></usr/share/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/lm/lmsso9.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
+></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-d
+ist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Qualitätssicherung&Evaluation.pdf (9 pages, 167014 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
- 33829 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 38445 words of extra memory for PDF output out of 42996 (max. 10000000)
 
